@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+
+}
+
+div.nav {
+    background: #57a6f6;
+    padding: 10px;
+}
+
+a {
+    color: black;
+    margin: 10px;
+    font-weight: bold;
+    font-variant: full-width;
+    padding: 10px;
+    text-decoration: none;
+}
+
+div.adres {
+
+    display: flex;
+    justify-content: center;
+}
+
+iframe {
+    margin-right: 20px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 40px;
+    margin-left: 45px;
+    margin-bottom: 15px;
+}
+
+p {
+    margin-left: 20px;
+    margin-right: 50px;
+}
+div.Verzenden{
+    display: flex;
+align-content: center;
+
+}
