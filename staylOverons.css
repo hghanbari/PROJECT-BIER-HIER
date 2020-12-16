@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+body{
+    width: 100%;
+
+
+}
+div.nav {
+    background: #57a6f6;
+    padding: 10px;
+}
+
+a {
+    color: black;
+    margin: 5px;
+    font-weight: bold;
+    font-variant: full-width;
+    padding: 10px;
+    text-decoration: none;
+}
+div.imgs{
+    display: flex;
+}
+div img{
+    width: 200px;
+    margin:  5px;
+
+}
+p{
+    margin: 5px;
+}
