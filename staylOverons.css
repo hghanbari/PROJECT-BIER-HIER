@@ -19,13 +19,16 @@ a {
     padding: 10px;
     text-decoration: none;
 }
-div.imgs{
-    display: flex;
-}
-div img{
-    width: 200px;
-    margin:  5px;
+div.g {
+    display: grid;
+    grid-template-columns:repeat(6,15%);
+    grid-auto-rows: minmax( auto);
+    grid-gap: 10px;
+    justify-content: center;
 
+}
+img{
+    width: 200px;
 }
 p{
     margin: 5px;
